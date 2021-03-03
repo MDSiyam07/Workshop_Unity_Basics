@@ -36,7 +36,7 @@ Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 <img width="499" alt="GameObject3" src="https://user-images.githubusercontent.com/59643688/109831567-dbf54400-7c3f-11eb-9444-5d2d7dbb0d0e.png">
 
 	Ce composant sera alors un élément « fils » du GameObject utilisable ensuite.
-	<img width="373" alt="Fils" src="https://user-images.githubusercontent.com/59643688/109831676-f62f2200-7c3f-11eb-8e39-3b1443134148.png">
+
 
 4. C# dans Unity
 	Pour faire simple : les scripts sont utilisé pour contrôler le comportement d’un composant d’un GameObject.
