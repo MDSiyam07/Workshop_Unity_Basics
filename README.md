@@ -30,6 +30,7 @@ Pourquoi s’intéresser à Unity ?
 3. GameObjects
 	Ce sont LES éléments du jeu.
 	C’est-à-dire, tous les objets présents dans votre jeu est un GameObject.
+	
 	<img width="1105" alt="CreateEmpty" src="https://user-images.githubusercontent.com/59643688/109831547-d566cc80-7c3f-11eb-88db-555e69dbab65.png">
 
 	Lorsque vous faites un clic droit sur votre GameObject, ce qui est listé dans le menu déroulant sont en fait des composants, chacun possédant sa fonctionnalité.
