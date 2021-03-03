@@ -4,6 +4,7 @@ Présentation des bases d'Unity
 Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 
 1. Intro
+
 Pourquoi s’intéresser à Unity ? 
 Ça monte en réputation, la communauté est grande et active, possible de faire des jeux avancés en 2D et en 3D, facile d’utilisation et c’est gratuit.
 
@@ -46,6 +47,7 @@ Pourquoi s’intéresser à Unity ?
 	Exemple : pour ajouter système de sauvegarde.
 
 5. Asset Store
+
 <img width="1335" alt="AssetStore" src="https://user-images.githubusercontent.com/59643688/109831746-034c1100-7c40-11eb-9832-37cc2824b20f.png">
 
 	Comme le dit son nom, dans ce store vous trouverez d’innombrables assets. Des images, des fonts, du materiel UI, etc… à importer à votre jeu.
@@ -54,6 +56,8 @@ Pourquoi s’intéresser à Unity ?
 6. À vous !
 
 	Je vous invite à télécharger et importer ce kit de jeu dans votre Unity. Vous verrez alors un peu l’architecture d’un jeu.
+	
+	
 	<img width="1792" alt="KitJeu" src="https://user-images.githubusercontent.com/59643688/109831768-0941f200-7c40-11eb-81ea-a343dc2fa133.png">
 
 Fin.
