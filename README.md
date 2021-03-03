@@ -3,7 +3,8 @@ Présentation des bases d'Unity
 
 Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 
-1. Intro : Pourquoi s’intéresser à Unity ? 
+1. Intro
+Pourquoi s’intéresser à Unity ? 
 Ça monte en réputation, la communauté est grande et active, possible de faire des jeux avancés en 2D et en 3D, facile d’utilisation et c’est gratuit.
 
 2. Présentation de l’interface graphique d’Unity :
@@ -39,6 +40,7 @@ Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 
 
 4. C# dans Unity
+
 	Pour faire simple : les scripts sont utilisé pour contrôler le comportement d’un composant d’un GameObject.
 	Travailler avec les scripts est essentiel pour « muscler » le gameplay.
 	Exemple : pour ajouter système de sauvegarde.
@@ -50,6 +52,7 @@ Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 	Malheureusement pour certains, les assets présents (les plus beaux) sont pour la plupart toujours payants MAIS il en existe des gratuits.
 
 6. À vous !
+
 	Je vous invite à télécharger et importer ce kit de jeu dans votre Unity. Vous verrez alors un peu l’architecture d’un jeu.
 	<img width="1792" alt="KitJeu" src="https://user-images.githubusercontent.com/59643688/109831768-0941f200-7c40-11eb-81ea-a343dc2fa133.png">
 
