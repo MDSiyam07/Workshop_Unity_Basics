@@ -10,15 +10,14 @@ Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 
 <img width="1792" alt="Interface_Unity" src="https://user-images.githubusercontent.com/59643688/109830940-435ec400-7c3f-11eb-88ac-a73e04abf60e.png">
 
+	Scene —> Élément principal pour la construction du jeu. Tous les éléments que vous allez ajouter, les positionner, les réajuster, etc… ce sera sur la Scene.
+	Hierarchy —> Liste tous les éléments présents dans la Scene.
+	Game —> Test en direct du jeu. Sélectionner « Maximize on Play » pour tester le jeu en plein écran.
 	Boutons : Play / Pause / Next
   
   <img width="125" alt="Play" src="https://user-images.githubusercontent.com/59643688/109830953-478ae180-7c3f-11eb-8b88-6c68d6c9c3b9.png">
 
-  
-
-	Scene —> Élément principal pour la construction du jeu. Tous les éléments que vous allez ajouter, les positionner, les réajuster, etc… ce sera sur la Scene.
-	Hierarchy —> Liste tous les éléments présents dans la Scene.
-	Game —> Test en direct du jeu. Sélectionner « Maximize on Play » pour tester le jeu en plein écran.
+  	Sert pour lancer le test du jeu.
 	Project —> Tous les fichiers du jeu : Images, Scripts, Font, Sounds, etc…
 	Inspector —> Donne les informations sur l’élément que vous sélectionner dans le panneau Hierarchy.
 
@@ -29,8 +28,13 @@ Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 3. GameObjects
 	Ce sont LES éléments du jeu.
 	C’est-à-dire, tous les objets présents dans votre jeu est un GameObject.
+	<img width="1105" alt="CreateEmpty" src="https://user-images.githubusercontent.com/59643688/109831547-d566cc80-7c3f-11eb-88db-555e69dbab65.png">
+
 	Lorsque vous faites un clic droit sur votre GameObject, ce qui est listé dans le menu déroulant sont en fait des composants.
+	<img width="499" alt="GameObject3" src="https://user-images.githubusercontent.com/59643688/109831567-dbf54400-7c3f-11eb-9444-5d2d7dbb0d0e.png">
+
 	Ce composant sera alors un élément « fils » du GameObject.
+	<img width="373" alt="Fils" src="https://user-images.githubusercontent.com/59643688/109831676-f62f2200-7c3f-11eb-8e39-3b1443134148.png">
 
 4. C# dans Unity
 	Pour faire simple : les scripts sont utilisé pour contrôler le comportement d’un composant d’un GameObject.
@@ -38,10 +42,13 @@ Version d'Unity utilisée pour ce workshop : Unity 2020.2.2f1
 	Exemple : pour ajouter système de sauvegarde.
 
 5. Asset Store
+<img width="1335" alt="AssetStore" src="https://user-images.githubusercontent.com/59643688/109831746-034c1100-7c40-11eb-9832-37cc2824b20f.png">
+
 	Comme le dit son nom, dans ce store vous trouverez d’innombrables assets. Des images, des fonts, du materiel UI, etc… à importer à votre jeu.
 	Malheureusement pour certains, les assets présents (les plus beaux) sont pour la plupart toujours payants MAIS il en existe des gratuits.
 
 6. À vous !
 	Je vous invite à télécharger et importer ce kit de jeu dans votre Unity. Vous verrez alors un peu l’architecture d’un jeu.
+	<img width="1792" alt="KitJeu" src="https://user-images.githubusercontent.com/59643688/109831768-0941f200-7c40-11eb-81ea-a343dc2fa133.png">
 
 Fin.
